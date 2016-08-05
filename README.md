@@ -16,6 +16,6 @@ Folder `files` contains `main.pas` file which content will be copied into `code/
 Folder `tools` contains files that will be copied into `tools` folder of your project.
 These tools can be accessed through cmd once you've loaded\created a project.
 
-Also, you might want to put folder with cdev.bat in users\systems path variable for accessing pasdev directly from the console just as other cmd commands like "cd".
+Also, you might want to put folder with pasdev.bat in users\systems path variable for accessing pasdev directly from the console just as other cmd commands like "cd".
 
 **Have fun!**
